@@ -1,51 +1,23 @@
-<h1 align="center">
-    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
-</h1>
+# Foodfy
 
-<h3 align="center">
-  Desafios: Introdução à programação
-</h3>
+Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
 
-<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+<div align="center">
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup.png" />
+</div>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-launchbase-desafios-01?color=%23F7DF1E">
+**Download dos arquivos:** https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/archive/master.zip
+**Apresentação do desafio:** https://vimeo.com/372742889/63b926d7e0
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
-  </a>
+## Abrindo specs do layout
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
+Acesse o arquivo `layouts/specs/index.html` para ver todas especificações do layout da aplicação.
 
-  <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-launchbase-desafios-01?style=social">
-  </a>
-</p>
+## Imagens do layout
 
-<p align="center">
-  <a href="#-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-desafios">Sobre os desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#-licença">Licença</a>
-</p>
+Acesse a pasta `layouts/assets` para obter todas imagens utilizadas no layout.
 
-## 🗄 Materiais
+## Dicas e regras
 
-- [Elementos principais do HTML](materiais/html.pdf)
-- [Propriedades importantes no CSS](materiais/css.pdf)
-
-## 🚀 Desafios
-
-- [Construindo Foodfy](desafios/01-foodfy.md)
-
-## 📅 Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/index.js). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+1. Dê uma boa olhada no material extra de CSS & HTML, esse material pode conter dicas importantes para você construir o layout desse website;
+2. Na página de receitas, quando o usuário clica em uma receita, um modal deve aparecer em tela contendo as mesmas informações da receita que ele clicou;
